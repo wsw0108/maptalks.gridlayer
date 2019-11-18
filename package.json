@@ -1,6 +1,6 @@
 {
   "name": "maptalks.gridlayer",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "description": "GridLayer plugin for maptalks.js. A layer draws grids.",
   "license": "MIT",
   "repository": {
@@ -46,7 +46,7 @@
     "mocha": "^2.4.5"
   },
   "peerDependencies": {
-    "maptalks": ">=0.36.0"
+    "maptalks": ">=0.46.0"
   },
   "dependencies": {
     "color": "^0.11.4"
